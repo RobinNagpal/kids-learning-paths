@@ -5,9 +5,9 @@ Certainly! Here’s a detailed progression roadmap for children starting from gr
 In grade 1, introduce simple machines like levers, pulleys, and wheels through play-based activities.
 - https://thinklikeanengineerproject.com/wp-content/uploads/2017/04/78610-tg-levers-and-pulleys.pdf
 - http://wpafbstem.com/WOW/wheels/activities/helfulTips/simpleMachines/teachingAboutSimpleMachines3_5.pdf
-
 - https://technovicar3.weebly.com/uploads/1/1/2/7/112775259/mechanisms.pdf
 - https://tinybop.com/assets/handbooks/simple-machines/Tinybop-EL4-Simple-Machines-Handbook-EN.pdf
+- https://www.sciencea-z.com/content/samples/machines_3-4_nf_book_-_high.pdf
 
 #### Simple Machines with Legos
 - https://www.thamesandkosmos.com/manuals/full/665069_Simple_Machines_Manual.pdf
