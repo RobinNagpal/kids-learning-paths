@@ -1,7 +1,17 @@
 Certainly! Here’s a detailed progression roadmap for children starting from grade 1, aimed at guiding them towards a career as a robotics engineer. This plan is broken down into 20-25 key steps:
 
+
 ### 1. **Introduction to Basic Machines**: 
 In grade 1, introduce simple machines like levers, pulleys, and wheels through play-based activities.
+- https://thinklikeanengineerproject.com/wp-content/uploads/2017/04/78610-tg-levers-and-pulleys.pdf
+- http://wpafbstem.com/WOW/wheels/activities/helfulTips/simpleMachines/teachingAboutSimpleMachines3_5.pdf
+
+- https://technovicar3.weebly.com/uploads/1/1/2/7/112775259/mechanisms.pdf
+- https://tinybop.com/assets/handbooks/simple-machines/Tinybop-EL4-Simple-Machines-Handbook-EN.pdf
+
+#### Simple Machines with Legos
+- https://www.thamesandkosmos.com/manuals/full/665069_Simple_Machines_Manual.pdf
+- https://www.gigotoys.com/manuals/7428R-EN.pdf
 
 ### 2. **Elementary Programming Concepts**: 
 By grade 2, use visual programming platforms like ScratchJr to teach basic coding concepts.
